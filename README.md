@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Ashutosh | Instagram" width="32px" height="32px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />](https://www.instagram.com/____ashutosh.p/)
 
 <a href="https://www.codechef.com/users/apadhy" target="blank"><img align="center" width="30px" height="27px" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="apadhy"/></a>
-<a href="https://www.hackerrank.com/ashutoshpadhy001" target="blank"><img align="center" width="30px" height="27px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="ashutoshpadhy001"/></a>
+<a href="https://www.hackerrank.com/ashutoshpadhy001" target="blank"><img align="center" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="ashutoshpadhy001"/></a>
 <a href="https://codeforces.com/profile/apadhy" target="blank"><img align="center" width="30px" height="27px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png" alt="apadhy"/></a>
 <br />
 

@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Ashutosh | Facebook" width="32px" height="27px" src="https://media4.giphy.com/media/ijEiXYEo9DBxm/200.webp?cid=ecf05e47nw712kytmw6cwbiiiikhtnkshqcp823o2poai13o&rid=200.webp&ct=g" />](https://www.facebook.com/ashutosh.padhy.7/)
 [<img align="left" alt="Ashutosh | Gmail" width="32px" height="27px" src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif" />](mailto:ashutoshpadhy001@gmail.com "Connect via Email")
 [<img align="left" alt="Ashutosh | Twitter" width="32px" height="27px" src="https://techcrunch.com/wp-content/uploads/2014/06/twitter-rise.gif?w=730&crop=1" />](https://twitter.com/__apadhy)
-[<img align="left" alt="Ashutosh | Instagram" width="32px" height="32px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />](https://www.instagram.com/____ashutosh.p/)
+[<img align="left" alt="Ashutosh | Instagram" width="32px" height="32px" src="https://letket.com/wp-content/uploads/2020/07/IncompleteTightDanishswedishfarmdog-max-1mb.gif" />](https://www.instagram.com/____ashutosh.p/)
 
 <a href="https://www.codechef.com/users/apadhy" target="blank"><img align="center" width="30px" height="27px" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="apadhy"/></a>
 <a href="https://www.hackerrank.com/ashutoshpadhy001" target="blank"><img align="center" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="ashutoshpadhy001"/></a>

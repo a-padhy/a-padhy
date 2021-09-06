@@ -38,8 +38,8 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=a-padhy&theme=midnight-purple&ring=DD8F09&fire=DD8F09&dates=20DD0A&currStreakNum=DDDDDD&sideNums=DDDDDD" />
   </a>
 </p> 
-
-<br />
+<!-- 
+<br /> -->
 
 --- 
 

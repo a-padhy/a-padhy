@@ -10,7 +10,6 @@
 - 🔭 I’m currently working on Frontend and Backend development technologies like Javascript, NodeJs, React etc.
 - 🌱 I’m currently learning everything about MERN Stack development.
 - 💪🏼 Future Goals: To NEVER stop acquiring knowledge.
-- 😄 Pronouns: He/His
 
 ---
 <h3 align="left">Languages and Tools:</h3>

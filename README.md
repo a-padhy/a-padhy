@@ -5,7 +5,7 @@
 # Hi there, I'm Ashutosh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <img align="right" alt="GIF" height="190px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-## I'm a Computer Engineering Student 
+## I'm a Computer Engineering Student  
 
 - 🔭 I’m currently working on Frontend and Backend development technologies like Javascript, NodeJs, React etc.
 - 🌱 I’m currently learning everything about MERN Stack development.

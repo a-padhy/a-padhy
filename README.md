@@ -41,22 +41,6 @@
 <br /> -->
  
 --- 
-
-## My Github Statistics 📈
-
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-padhy&&show_icons=true&theme=midnight-purple" />
-    </a>
-    <a href="">
-      <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-padhy&theme=midnight-purple&hide=glsl,python"/>
-    </a>
-</div
-  
-<br/>
-  
----
-  
   
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/a-padhy/count.svg)

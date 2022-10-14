@@ -1,7 +1,7 @@
 <!--
 **a-padhy/a-padhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+ 
 # Hi there, I'm Ashutosh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <img align="right" alt="GIF" height="190px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -30,7 +30,7 @@
 <a href="https://codeforces.com/profile/apadhy" target="blank"><img align="center" width="30px" height="27px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png" alt="apadhy"/></a>
 <br />
 
----
+--- 
 
 <p align = "center">
   <a href="https://github.com/a-padhy/github-readme-streak-stats">
@@ -41,7 +41,7 @@
 <br /> -->
  
 --- 
-  
+    
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/a-padhy/count.svg)
 

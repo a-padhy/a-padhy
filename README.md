@@ -29,7 +29,7 @@
 <a href="https://www.hackerrank.com/ashutoshpadhy001" target="blank"><img align="center" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="ashutoshpadhy001"/></a>
 <a href="https://codeforces.com/profile/apadhy" target="blank"><img align="center" width="30px" height="27px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png" alt="apadhy"/></a>
 <br />
-
+ 
 --- 
 
 <p align = "center">

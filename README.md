@@ -23,23 +23,11 @@
 <a href="https://linkedin.com/in/ashutosh-padhy-759707203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh-padhy-759707203/" height="30" width="40" /></a>
 <a href="https://fb.com/ashutosh.padhy.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashutosh.padhy.7/" height="30" width="40" /></a>
 <a href="https://instagram.com/____ashutosh.p/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____ashutosh.p/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/apadhy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="apadhy" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/a_padhy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="a_padhy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ashutoshpadhy001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashutoshpadhy001" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/apadhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="apadhy" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/apadhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="apadhy" height="30" width="40" /></a>
 </p>
-<br />
-
-### Contact with me 📝
-
-[<img align="left" alt="Ashutosh | LinkedIn" width="32px" height="27px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />](https://www.linkedin.com/in/ashutosh-padhy-759707203/)
-[<img align="left" alt="Ashutosh | Facebook" width="32px" height="27px" src="https://media4.giphy.com/media/ijEiXYEo9DBxm/200.webp?cid=ecf05e47nw712kytmw6cwbiiiikhtnkshqcp823o2poai13o&rid=200.webp&ct=g" />](https://www.facebook.com/ashutosh.padhy.7/)
-[<img align="left" alt="Ashutosh | Gmail" width="32px" height="27px" src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif" />](mailto:ashutoshpadhy001@gmail.com "Connect via Email")
-[<img align="left" alt="Ashutosh | Twitter" width="32px" height="27px" src="https://techcrunch.com/wp-content/uploads/2014/06/twitter-rise.gif?w=730&crop=1" />](https://twitter.com/__apadhy)
-[<img align="left" alt="Ashutosh | Instagram" width="30px" height="27px" src="https://letket.com/wp-content/uploads/2020/07/IncompleteTightDanishswedishfarmdog-max-1mb.gif" />](https://www.instagram.com/____ashutosh.p/)
-
-<a href="https://www.codechef.com/users/apadhy" target="blank"><img align="center" width="30px" height="27px" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="apadhy"/></a>
-<a href="https://www.hackerrank.com/ashutoshpadhy001" target="blank"><img align="center" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="ashutoshpadhy001"/></a>
-<a href="https://codeforces.com/profile/apadhy" target="blank"><img align="center" width="30px" height="27px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png" alt="apadhy"/></a>
 <br />
  
 --- 

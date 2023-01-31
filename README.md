@@ -17,6 +17,11 @@
 
 ---
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/apadhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="apadhy" height="30" width="40" /></a>
+</p>
+
 ### Contact with me 📝
 
 [<img align="left" alt="Ashutosh | LinkedIn" width="32px" height="27px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />](https://www.linkedin.com/in/ashutosh-padhy-759707203/)

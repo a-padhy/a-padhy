@@ -31,14 +31,15 @@
 <br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-padhy&show_icons=true&locale=en&layout=compact" alt="a-padhy" /></p>
-<br />
---- 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-padhy&show_icons=true&locale=en" alt="a-padhy" /></p>
 
-<p align = "center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-padhy&" alt="a-padhy" /></p>
+<br />
+<!-- <p align = "center">
   <a href="https://github.com/a-padhy/github-readme-streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=a-padhy&theme=midnight-purple&ring=DD8F09&fire=DD8F09&dates=20DD0A&currStreakNum=DDDDDD&sideNums=DDDDDD" />
   </a>
-</p> 
+</p>  -->
 <!-- 
 <br /> -->
  

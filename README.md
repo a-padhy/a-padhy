@@ -5,7 +5,7 @@
 # Hi there, I am Ashutosh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <img align="right" alt="GIF" height="190px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-## I'm a Computer Engineering Student  
+## I'm a   
 
 - 🔭 I’m currently working on Frontend and Backend development technologies like Javascript, NodeJs, React etc.
 - 🌱 I’m currently learning everything about MERN Stack development.
@@ -17,10 +17,6 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-padhy-759707203/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/__apadhy) 
 </p>
 <br />
 

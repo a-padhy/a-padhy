@@ -5,11 +5,11 @@
 # Hi there, I am Ashutosh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <img align="right" alt="GIF" height="190px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-## I'm a   
+## I bring web ideas to life as a MERN stack enthusiast, weaving functionality with a touch of innovation.   
 
-- 🔭 I’m currently working on Frontend and Backend development technologies like Javascript, NodeJs, React etc.
-- 🌱 I’m currently learning everything about MERN Stack development.
-- 💪🏼 Future Goals: To NEVER stop acquiring knowledge.
+- 🔭 I’m currently working on projects based on MERN Stack.
+- 🌱 I’m currently learning about Docker and Kubernetes.
+- 💪🏼 Future Goals: Deepen my expertise in emerging technologies.
 
 ---
 # 💻 Tech Stack:

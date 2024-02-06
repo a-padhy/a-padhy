@@ -8,7 +8,7 @@
 ## I bring web ideas to life as a MERN stack enthusiast, weaving functionality with a touch of innovation.   
 
 - 🔭 I’m currently working on projects based on MERN Stack.
-- 🌱 I’m currently learning about Docker and Kubernetes.
+- 🌱 I’m currently learning more about NextJs and Docker, Kubernetes.
 - 💪🏼 Future Goals: Deepen my expertise in emerging technologies.
 
 ---
